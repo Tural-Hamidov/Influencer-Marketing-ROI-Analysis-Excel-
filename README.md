@@ -18,7 +18,7 @@ The final output includes analytical dashboards, pivot-based reports, KPI modeli
 ---
 
 ## 📊 Influencer Marketing ROI Analysis Dashboard
-![Influencer Marketing ROI Analysis Dashboard](Excel%2Project%2Dashboard%2Image.png)
+![Influencer Marketing ROI Analysis Dashboard](dashboard.png)
 
 ---
 
